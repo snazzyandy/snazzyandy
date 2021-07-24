@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snazzyandy
 - 👀 I’m interested in R and IoT  
 - 🌱 I’m currently learning modelling and Data vis 
-- 💞️ I’m looking to collaborate on Water Modelling
+- 💞️ I’m looking to collaborate on Hydrological Modeling
 - 📫 How to reach me ... https://www.linkedin.com/in/andrew-turner97/
 
 <!---
