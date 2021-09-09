@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @snazzyandy
+- 🏛️ I work in the Australian Water Industry on IoT Projects
 - 👀 I’m interested in R and IoT  
 - 🌱 I’m currently learning modelling and Data vis 
 - 💞️ I’m looking to collaborate on Hydrological Modeling
