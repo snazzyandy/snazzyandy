@@ -3,7 +3,7 @@
 - 👀 I’m interested in R and IoT  
 - 🌱 I’m currently learning modelling and Data vis 
 - 💞️ I’m looking to collaborate on Hydrological Modeling
-- 📫 How to reach me ... https://www.linkedin.com/in/andrew-turner97/
+- 📫 How to reach me ... https://www.linkedin.com/in/andrew-turner97/ | https://twitter.com/Snazzy_Andy
 
 <!---
 snazzyandy/snazzyandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
