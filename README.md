@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @snazzyandy
-- 🏛️ I work in the Australian Water Industry on IoT Projects
-- 👀 I’m interested in R and IoT  
-- 🌱 I’m currently learning modelling and Data vis 
-- 💞️ I’m looking to collaborate on Hydrological Modeling
+- 🏛️ I work in the Australian Water Industry but most of this work relates to personal projects
+- 👀 I’m interested in R, GIS, and 3d printing
+- 🌱 I’m currently learning spatial modelling and data vis 
+- 💞️ I’m looking to collaborate on water demand modeling
 - 📫 How to reach me ... https://www.linkedin.com/in/andrew-turner97/ | https://twitter.com/Snazzy_Andy
 
 <!---
