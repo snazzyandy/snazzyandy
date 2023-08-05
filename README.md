@@ -3,7 +3,7 @@
 - 👀 I’m interested in R, GIS, and 3d printing
 - 🌱 I’m currently learning spatial modelling and data vis 
 - 💞️ I’m looking to collaborate on water demand projects
-- 📫 How to reach me ... https://www.linkedin.com/in/andrew-turner97/ | https://twitter.com/Snazzy_Andy
+- 📫 How to reach me ... https://www.linkedin.com/in/andrew-turner97/ | https://twitter.com/Snazzy_Andy | https://snazzyandy.github.io/
 
 <!---
 snazzyandy/snazzyandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
